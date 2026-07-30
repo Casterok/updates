@@ -1,7 +1,21 @@
 {
   "version": "1.6.0",
   "description": "RunTime Visuals 1.6.0 — стабильная сборка для MC 1.21.11.",
-  "download_url": "https://casterok.github.io/updates/runtime-visuals-1.6.0.jar",
+  "download_url": "https://casterok.github.io/updates/files/mods/runtime-visuals-1.6.0.jar",
   "mc_version": "1.21.11",
-  "fabric_loader": "0.19.2"
+  "fabric_loader": "0.19.2",
+  "files": [
+    {
+      "path": "mods/fabric-api-0.141.1+1.21.11.jar",
+      "url": "files/mods/fabric-api-0.141.1+1.21.11.jar",
+      "sha1": "7f51d854b55c8b29fb4dc0d666e550015c742b69",
+      "size": 2412038
+    },
+    {
+      "path": "mods/runtime-visuals-1.6.0.jar",
+      "url": "files/mods/runtime-visuals-1.6.0.jar",
+      "sha1": "dff7b06c1989f87fdd2e1b4cd445373d92809e51",
+      "size": 15403935
+    }
+  ]
 }
